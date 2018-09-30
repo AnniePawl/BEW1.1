@@ -30,15 +30,20 @@ I will also cover concepts including:
 11. History of JavaScript - Summative Assessment
 12. Node.JS Under the Hood
 
+## Main Projects 
+* Giphy Search App
+* Rotten Tomatoes Clone 
+* Contractor Project 
+
 ## Tools
 * HTML
 * CSS
 * JavaScript
 * Bootstrap
-* Handlebars
 * NodeJS
 * ExpressJS
 * MongoBD
+* Handlebars
 * Heroku
 * nmp
 
