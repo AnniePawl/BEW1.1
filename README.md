@@ -31,7 +31,7 @@ I will also cover concepts including:
 12. Node.JS Under the Hood
 
 ## Main Projects 
-* Giphy Search App
+* [Giphy Search App](https://anna-giphy-search.herokuapp.com/)
 * Rotten Tomatoes Clone 
 * Contractor Project 
 
